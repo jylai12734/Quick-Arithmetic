@@ -73,6 +73,7 @@ int main() {
                 cout << endl; // end user difficulty
 
                 if (n != 4) arithmetic(n, aData, aTop); 
+                n = 0;
                 break;  // end Arithmetic Exercise
 
             case 2: // Fluency Drill
